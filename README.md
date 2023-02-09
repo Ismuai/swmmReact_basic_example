@@ -24,7 +24,11 @@ Download and install Github Desktop here: https://desktop.github.com/
 
 ## npm
 
-npm (https://www.npmjs.com/) stands for Node Package Manager, and believe it or not, you already installed it. To make sure I'm not lying to you, open up a command prompt (search cmd in your desktop's search widget) and type npm -v. That will give you the version number of your current npm install. One last thing: their website will ask you to create an account or subscribe to the pro version. If you're into that sort of thing, don't let me stop you, but you really don't need to.
+npm (https://www.npmjs.com/) stands for Node Package Manager, and believe it or not, you already installed it. To make sure I'm not lying to you, open up a command prompt (search cmd in your desktop's search widget) and type 
+```
+npm -v 
+```
+That will give you the version number of your current npm install. One last thing: their website will ask you to create an account or subscribe to the pro version. If you're into that sort of thing, don't let me stop you, but you really don't need to.
 
 ## React
 
@@ -40,7 +44,7 @@ inside of the text box. Keep note of or change the 'Local Path' text box, and th
 
 Open up a File Explorer window and find the folder where you've copied these files. 
 
-To test that everything works, open up a command prompt. Navigate to the foler where you've copied the files by typing something like the following:
+To test that everything works, open up a command prompt. Navigate to the folder where you've copied the files by typing something like the following:
 ```
 cd C:\Path\to\files\you\downloaded\swmmReact_basic_example
 ```
@@ -60,7 +64,7 @@ in the address bar.
 
 # Modifying the demo
 
-You can modify the demo to show off your own files. Keep in mind you are running in a web browser, so files with output greater than 4GB, and files that take a long time to run are not appropriate for this demo. You can learn later how to use swmmReact to work with large or long-running files by sending your work to a server and having it notify you when your results are available. You can also per-load your results within your website and allow swmmReact to work with the data without ever needing to run swmmReact's processing capabilities.
+You can modify the demo to show off your own files. Keep in mind you are running in a web browser, so files with output greater than 4GB, and files that take a long time to run are not appropriate for this demo. You can learn later how to use swmmReact to work with large or long-running files by sending your work to a server and having it notify you when your results are available. You can also pre-load your results within your website and allow swmmReact to work with the data without ever needing to run swmmReact's processing capabilities.
 
 ## Install your own .inp file
 
