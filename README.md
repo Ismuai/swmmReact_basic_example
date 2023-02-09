@@ -99,9 +99,9 @@ This will create a set of files that you can find in the following folder:
 swmmReact_basic_example\build\
 ```
 You can copy these files to a web server, or push your files to Github by opening Github Desktop and selecting 'Commit to Master' in the bottom left hand corner. The process for using Github to serve your swmmReact website is explained in excellent detail here:
-
+```
 https://github.com/gitname/react-gh-pages
-
+```
 # Conclusion
 
 Now that you have a basic idea of how to create a swmmReact app, you can move on to some of the demos for displaying results, modifying files, running simulations, and setting up and logging in to file processing servers. Thanks so much for taking the time to read this, and if you have any questions, you can contact me at issac@swmmReact.org.
