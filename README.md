@@ -30,6 +30,3 @@ npm (https://www.npmjs.com/) stands for Node Package Manager, and believe it or 
 
 React (https://reactjs.org/) is an amazingly easy and fun programming system based upon JavaScript. React allows you to create websites incredbly quickly, and really one of the best ways to get acquanted with it is 'create-react-app'. Once you are done with this tutorial, it would be a good idea to check out how easy it is to use create-react-app to make simple (or complex) web apps. There are no puns in this section.
 
-### `npm start`
-
-Runs the app in the development mode.\
