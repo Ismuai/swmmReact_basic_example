@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Intro to creating web apps with swmmReact
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Creating web apps with swmmReact is simple. Developing environmental models and showing them off is easy with swmmReact. You can have people open your files, work with current versions, read results, focus on what you want them to focus on, add maps, and make responsive, interactive systems. swmmReact can help people feel engaged with your data, showing models and model results that abstract away finer details that may interfere in communicating
 
-## Available Scripts
+## About this example
 
-In the project directory, you can run:
+This particular example is made for those that are very new to web programming. By the time you have completed this example, you will have a working web page that you can display the results of a running model on your own computer. You can then upload those files to a web server, or simply make a web page on Github and move on from there.
+
+# Setting up your computer for development
+
+You won't need to do a lot of work to start programming with swmmReact. While you'll be working with Node.js, npm, React, and Github desktop, there's really only 2 programs that you will install in this example: Node.js and Github desktop. Of course I'll walk you through each one:
+
+## Node.js
+
+Node.js (https://nodejs.org/en/).  Node.js® is an open-source, cross-platform JavaScript runtime environment. Javascript has often been associated with programming for web browsers, but Node.js allows you to do all kinds of cool desktop and server-side programming that used to belong squarely in the domain of php, python, perl, and plenty of programming paradigms that probably aren't prepended with 'P'. JavaScript is different because it starts with a 'J'. Check out some of the other differences here: (https://nodejs.org/en/about/).
+
+Download and install Node.js here: https://nodejs.org/en/
+
+## Github Desktop
+
+Github Desktop (https://desktop.github.com/) isn't the only way or the best way to interact with Github, but it is a colorful GUI with plenty of fun buttons to push, and that's what's really important. You'll need to sign up for a Github account (https://github.com/) but they make the process as painless as possible. 
+
+Download and install Github Desktop here: https://desktop.github.com/
+
+## npm
+
+npm (https://www.npmjs.com/) stands for Node Package Manager, and believe it or not, you already installed it. To make sure I'm not lying to you, open up a command prompt (search cmd in your desktop's search widget) and type npm -v. That will give you the version number of your current npm install. One last thing: their website will ask you to create an account or subscribe to the pro version. If you're into that sort of thing, don't let me stop you, but you really don't need to.
+
+## React
+
+React (https://reactjs.org/) is an amazingly easy and fun programming system based upon JavaScript. React allows you to create websites incredbly quickly, and really one of the best ways to get acquanted with it is 'create-react-app'. Once you are done with this tutorial, it would be a good idea to check out how easy it is to use create-react-app to make simple (or complex) web apps. There are no puns in this section.
 
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
