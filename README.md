@@ -32,7 +32,7 @@ That will give you the version number of your current npm install. One last thin
 
 ## React
 
-React (https://reactjs.org/) is an amazingly easy and fun programming system based upon JavaScript. React allows you to create websites incredibly quickly, and really one of the best ways to get acquanted with it is 'create-react-app'. Once you are done with this tutorial, it would be a good idea to check out how easy it is to use create-react-app to make simple (or complex) web apps.
+React (https://reactjs.org/) is an amazingly easy and fun programming system based upon JavaScript. React allows you to create websites incredibly quickly, and really one of the best ways to get acquainted with it is 'create-react-app'. Once you are done with this tutorial, it would be a good idea to check out how easy it is to use create-react-app to make simple (or complex) web apps.
 
 # Copying and running the demo
 
@@ -84,9 +84,7 @@ and change the following line:
 ```
 const [inpFile, setInpFile] = useState('Example1.inp')
 ```
-by replacing 'Example1.inp' with 'YourFileName.inp'.
-
-run the program again by using the command window and typing:
+by replacing 'Example1.inp' with 'YourFileName.inp'. Run the program again by using the command window and typing:
 ```
 npm start
 ```
