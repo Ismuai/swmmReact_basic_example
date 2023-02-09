@@ -12,7 +12,7 @@ You won't need to do a lot of work to start programming with swmmReact. While yo
 
 ## Node.js
 
-Node.js (https://nodejs.org/en/).  Node.js® is an open-source, cross-platform JavaScript runtime environment. Javascript has often been associated with programming for web browsers, but Node.js allows you to do all kinds of cool desktop and server-side programming that used to belong squarely in the domain of php, python, perl, and plenty of programming paradigms that probably aren't prepended with 'P'. JavaScript is different because it starts with a 'J'. Check out some of the other differences here: (https://nodejs.org/en/about/).
+Node.js® (https://nodejs.org/en/) is an open-source, cross-platform JavaScript runtime environment. Javascript has often been associated with programming for web browsers, but Node.js allows you to do all kinds of cool desktop and server-side programming that used to belong squarely in the domain of php, python, perl, and plenty of programming paradigms that probably aren't prepended with 'P'. JavaScript is different because it starts with a 'J'. Check out some of the other differences here: (https://nodejs.org/en/about/).
 
 Download and install Node.js here: https://nodejs.org/en/
 
