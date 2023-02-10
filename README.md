@@ -12,7 +12,7 @@ You won't need to do a lot of work to start programming with swmmReact. While yo
 
 ## Node.js
 
-Node.js® (https://nodejs.org/en/) is an open-source, cross-platform JavaScript runtime environment. Javascript has often been associated with programming for web browsers, but Node.js allows you to do all kinds of cool desktop and server-side programming that used to belong squarely in the domain of php, python, perl, and plenty of programming paradigms that probably aren't prepended with 'P'. JavaScript isn't just different because it starts with a 'J'. Check out some of the details here: (https://nodejs.org/en/about/).
+Node.js® (https://nodejs.org/en/) is an open-source, cross-platform JavaScript runtime environment. Javascript has often been associated with programming for web browsers, but Node.js allows you to do all kinds of cool desktop and server-side programming that used to belong squarely in the domain of php, python, perl, and plenty of programming paradigms that probably aren't prepended with 'P'. JavaScript different because it starts with a 'J'. Check out some of the other details here: (https://nodejs.org/en/about/).
 
 Download and install Node.js here: https://nodejs.org/en/
 
@@ -64,7 +64,7 @@ in the address bar.
 
 # Modifying the demo
 
-You can modify the demo to show off your own files. Keep in mind you are running in a web browser, so files with output greater than 4GB, and files that take a long time to run are not appropriate for this demo. You can learn later how to use swmmReact to work with large or long-running files by sending your work to a server and having it notify you when your results are available. You can also pre-load your results within your website and allow swmmReact to work with the data without ever needing to run swmmReact's processing capabilities.
+You can modify the demo to show off your own files. Keep in mind you are running in a web browser, so files with output greater than 4GB, and files that take a long time to run are not appropriate for this demo. You can learn later how to use swmmReact, swmmNode, and swmmLink to work with large or long-running files by sending your work to a server and having it notify you when your results are available. You can also pre-load your results within your website and allow swmmReact to work with the data without ever needing to run swmmReact's processing capabilities.
 
 ## Install your own .inp file
 
@@ -100,10 +100,8 @@ This will create a set of files that you can find in the following folder:
 ```
 swmmReact_basic_example\build\
 ```
-You can copy these files to a web server, or push your files to Github by opening Github Desktop and selecting 'Commit to Master' in the bottom left hand corner. The process for using Github to serve your swmmReact website is explained in excellent detail here:
-```
-https://github.com/gitname/react-gh-pages
-```
+You can copy these files to a web server, or push your files to Github by opening Github Desktop and selecting 'Commit to Master' in the bottom left hand corner. The process for using Github to serve your swmmReact website is explained in excellent detail here: (https://github.com/gitname/react-gh-pages)
+
 # Conclusion
 
 Now that you have a basic idea of how to create a swmmReact app, you can move on to some of the demos for displaying results, modifying files, running simulations, and setting up and logging in to file processing servers. Thanks so much for taking the time to read this, and if you have any questions, you can contact me at issac@swmmReact.org.
