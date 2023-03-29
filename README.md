@@ -94,7 +94,7 @@ which will run the program with your files and display your new .rpt files.
 
 To build a set of files that you can run on your own web server, use the command window again and type:
 ```
-npm build
+npm run build
 ```
 This will create a set of files that you can find in the following folder:
 ```
