@@ -6,7 +6,7 @@ import createModule from "./swmmwasm.js";
 function App() {
   // Identify the .inp file. You should place your own .inp file in the 
   // swmmwasm/public/ directory and rename this variable to your file name.
-  const [inpFile, setInpFile] = useState('Example1.inp')
+  const [inpFile, setInpFile] = useState('PAA_FUT_CHP_MAGGIO.inp')
   // State variable for the contents of the output .rpt file.
   const [swmmRpt, setSwmmRpt] = useState()
 
